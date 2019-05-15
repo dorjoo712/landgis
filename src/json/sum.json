@@ -1,0 +1,2036 @@
+[
+  {
+    "adm1cd": "MNG001",
+    "adm1nm_mn": "Архангай",
+    "adm2cd": "MNG001002",
+    "adm2nm_mn": "Булган"
+  },
+  {
+    "adm1cd": "MNG012",
+    "adm1nm_mn": "Ховд",
+    "adm2cd": "MNG012012",
+    "adm2nm_mn": "Мөнххайрхан"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003019",
+    "adm2nm_mn": "Шинэжинст"
+  },
+  {
+    "adm1cd": "MNG001",
+    "adm1nm_mn": "Архангай",
+    "adm2cd": "MNG001001",
+    "adm2nm_mn": "Батцэнгэл"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003010",
+    "adm2nm_mn": "Бөмбөгөр"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019010",
+    "adm2nm_mn": "Баян-Өнжүүл"
+  },
+  {
+    "adm1cd": "MNG004",
+    "adm1nm_mn": "Булган",
+    "adm2cd": "MNG004008",
+    "adm2nm_mn": "Хангал"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019015",
+    "adm2nm_mn": "Дэлгэрхаан"
+  },
+  {
+    "adm1cd": "MNG006",
+    "adm1nm_mn": "Дорнод",
+    "adm2cd": "MNG006010",
+    "adm2nm_mn": "Хэрлэн"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019013",
+    "adm2nm_mn": "Борнуур"
+  },
+  {
+    "adm1cd": "MNG001",
+    "adm1nm_mn": "Архангай",
+    "adm2cd": "MNG001017",
+    "adm2nm_mn": "Цахир"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019018",
+    "adm2nm_mn": "Жаргалант"
+  },
+  {
+    "adm1cd": "MNG008",
+    "adm1nm_mn": "Дундговь",
+    "adm2cd": "MNG007023",
+    "adm2nm_mn": "Хулд"
+  },
+  {
+    "adm1cd": "MNG018",
+    "adm1nm_mn": "Сүхбаатар",
+    "adm2cd": "MNG018006",
+    "adm2nm_mn": "Халзан"
+  },
+  {
+    "adm1cd": "MNG017",
+    "adm1nm_mn": "Сэлэнгэ",
+    "adm2cd": "MNG016036",
+    "adm2nm_mn": "Зүүнбүрэн"
+  },
+  {
+    "adm1cd": "MNG012",
+    "adm1nm_mn": "Ховд",
+    "adm2cd": "MNG012009",
+    "adm2nm_mn": "Жаргалант"
+  },
+  {
+    "adm1cd": "MNG017",
+    "adm1nm_mn": "Сэлэнгэ",
+    "adm2cd": "MNG016035",
+    "adm2nm_mn": "Ерөө"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022022",
+    "adm2nm_mn": "Ургамал"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019027",
+    "adm2nm_mn": "Зуунмод"
+  },
+  {
+    "adm1cd": "MNG021",
+    "adm1nm_mn": "Увс",
+    "adm2cd": "MNG021011",
+    "adm2nm_mn": "Сагиль"
+  },
+  {
+    "adm1cd": "MNG016",
+    "adm1nm_mn": "Өвөрхангай",
+    "adm2cd": "MNG016018",
+    "adm2nm_mn": "Есөнзүйл"
+  },
+  {
+    "adm1cd": "MNG007",
+    "adm1nm_mn": "Дорноговь",
+    "adm2cd": "MNG007001",
+    "adm2nm_mn": "Айраг"
+  },
+  {
+    "adm1cd": "MNG014",
+    "adm1nm_mn": "Өмнөговь",
+    "adm2cd": "MNG014015",
+    "adm2nm_mn": "Цогтцэций"
+  },
+  {
+    "adm1cd": "MNG018",
+    "adm1nm_mn": "Сүхбаатар",
+    "adm2cd": "MNG018010",
+    "adm2nm_mn": "Сүхбаатар"
+  },
+  {
+    "adm1cd": "MNG009",
+    "adm1nm_mn": "Говь-Алтай",
+    "adm2cd": "MNG009017",
+    "adm2nm_mn": "Цогт"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013019",
+    "adm2nm_mn": "Цагаан-Уул"
+  },
+  {
+    "adm1cd": "MNG007",
+    "adm1nm_mn": "Дорноговь",
+    "adm2cd": "MNG007002",
+    "adm2nm_mn": "Алтанширээ"
+  },
+  {
+    "adm1cd": "MNG021",
+    "adm1nm_mn": "Увс",
+    "adm2cd": "MNG021018",
+    "adm2nm_mn": "Зүүнговь"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019009",
+    "adm2nm_mn": "Баянхангай"
+  },
+  {
+    "adm1cd": "MNG012",
+    "adm1nm_mn": "Ховд",
+    "adm2cd": "MNG012005",
+    "adm2nm_mn": "Дарви"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003017",
+    "adm2nm_mn": "Хүрээмарал"
+  },
+  {
+    "adm1cd": "MNG011",
+    "adm1nm_mn": "Хэнтий",
+    "adm2cd": "MNG011001",
+    "adm2nm_mn": "Батноров"
+  },
+  {
+    "adm1cd": "MNG012",
+    "adm1nm_mn": "Ховд",
+    "adm2cd": "MNG012017",
+    "adm2nm_mn": "Зэрэг"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022014",
+    "adm2nm_mn": "Сонгино"
+  },
+  {
+    "adm1cd": "MNG014",
+    "adm1nm_mn": "Өмнөговь",
+    "adm2cd": "MNG014011",
+    "adm2nm_mn": "Номгон"
+  },
+  {
+    "adm1cd": "MNG014",
+    "adm1nm_mn": "Өмнөговь",
+    "adm2cd": "MNG014009",
+    "adm2nm_mn": "Мандал-Овоо"
+  },
+  {
+    "adm1cd": "MNG001",
+    "adm1nm_mn": "Архангай",
+    "adm2cd": "MNG001015",
+    "adm2nm_mn": "Тариат"
+  },
+  {
+    "adm1cd": "MNG010",
+    "adm1nm_mn": "Говьсүмбэр",
+    "adm2cd": "MNG010003",
+    "adm2nm_mn": "Сүмбэр"
+  },
+  {
+    "adm1cd": "MNG014",
+    "adm1nm_mn": "Өмнөговь",
+    "adm2cd": "MNG014007",
+    "adm2nm_mn": "Ханхонгор"
+  },
+  {
+    "adm1cd": "MNG017",
+    "adm1nm_mn": "Сэлэнгэ",
+    "adm2cd": "MNG016025",
+    "adm2nm_mn": "Хушаат"
+  },
+  {
+    "adm1cd": "MNG009",
+    "adm1nm_mn": "Говь-Алтай",
+    "adm2cd": "MNG009002",
+    "adm2nm_mn": "Баян-Уул"
+  },
+  {
+    "adm1cd": "MNG021",
+    "adm1nm_mn": "Увс",
+    "adm2cd": "MNG021001",
+    "adm2nm_mn": "Баруунтуруун"
+  },
+  {
+    "adm1cd": "MNG011",
+    "adm1nm_mn": "Хэнтий",
+    "adm2cd": "MNG011017",
+    "adm2nm_mn": "Өмнөдэлгэр"
+  },
+  {
+    "adm1cd": "MNG012",
+    "adm1nm_mn": "Ховд",
+    "adm2cd": "MNG012003",
+    "adm2nm_mn": "Буянт"
+  },
+  {
+    "adm1cd": "MNG009",
+    "adm1nm_mn": "Говь-Алтай",
+    "adm2cd": "MNG009011",
+    "adm2nm_mn": "Хөхморьт"
+  },
+  {
+    "adm1cd": "MNG015",
+    "adm1nm_mn": "Орхон",
+    "adm2cd": "MNG015002",
+    "adm2nm_mn": "Жаргалант"
+  },
+  {
+    "adm1cd": "MNG005",
+    "adm1nm_mn": "Дархан-Уул",
+    "adm2cd": "MNG005004",
+    "adm2nm_mn": "Шарынгол"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019003",
+    "adm2nm_mn": "Архуст"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022005",
+    "adm2nm_mn": "Булнай"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013012",
+    "adm2nm_mn": "Рашаант"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019011",
+    "adm2nm_mn": "Баянцагаан"
+  },
+  {
+    "adm1cd": "MNG016",
+    "adm1nm_mn": "Өвөрхангай",
+    "adm2cd": "MNG016005",
+    "adm2nm_mn": "Баян-Өндөр"
+  },
+  {
+    "adm1cd": "MNG001",
+    "adm1nm_mn": "Архангай",
+    "adm2cd": "MNG001006",
+    "adm2nm_mn": "Ихтамир"
+  },
+  {
+    "adm1cd": "MNG021",
+    "adm1nm_mn": "Увс",
+    "adm2cd": "MNG021008",
+    "adm2nm_mn": "Өлгий"
+  },
+  {
+    "adm1cd": "MNG011",
+    "adm1nm_mn": "Хэнтий",
+    "adm2cd": "MNG011016",
+    "adm2nm_mn": "Норовлин"
+  },
+  {
+    "adm1cd": "MNG014",
+    "adm1nm_mn": "Өмнөговь",
+    "adm2cd": "MNG014013",
+    "adm2nm_mn": "Сэврэй"
+  },
+  {
+    "adm1cd": "MNG001",
+    "adm1nm_mn": "Архангай",
+    "adm2cd": "MNG001019",
+    "adm2nm_mn": "Цэцэрлэг"
+  },
+  {
+    "adm1cd": "MNG008",
+    "adm1nm_mn": "Дундговь",
+    "adm2cd": "MNG007024",
+    "adm2nm_mn": "Луус"
+  },
+  {
+    "adm1cd": "MNG004",
+    "adm1nm_mn": "Булган",
+    "adm2cd": "MNG004002",
+    "adm2nm_mn": "Баяннуур"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013004",
+    "adm2nm_mn": "Бүрэнтогтох"
+  },
+  {
+    "adm1cd": "MNG021",
+    "adm1nm_mn": "Увс",
+    "adm2cd": "MNG021005",
+    "adm2nm_mn": "Хяргас"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019021",
+    "adm2nm_mn": "Өндөрширээт"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019005",
+    "adm2nm_mn": "Баян"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022006",
+    "adm2nm_mn": "Дөрвөлжин"
+  },
+  {
+    "adm1cd": "MNG009",
+    "adm1nm_mn": "Говь-Алтай",
+    "adm2cd": "MNG009010",
+    "adm2nm_mn": "Халиун"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019006",
+    "adm2nm_mn": "Баянчандмань"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022012",
+    "adm2nm_mn": "Сантмаргац"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013008",
+    "adm2nm_mn": "Их-Уул"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022009",
+    "adm2nm_mn": "Их-Уул"
+  },
+  {
+    "adm1cd": "MNG002",
+    "adm1nm_mn": "Баян-Өлгий",
+    "adm2cd": "MNG002013",
+    "adm2nm_mn": "Улаанхус"
+  },
+  {
+    "adm1cd": "MNG006",
+    "adm1nm_mn": "Дорнод",
+    "adm2cd": "MNG006001",
+    "adm2nm_mn": "Баяндун"
+  },
+  {
+    "adm1cd": "MNG020",
+    "adm1nm_mn": "Улаанбаатар",
+    "adm2cd": "MNG020002",
+    "adm2nm_mn": "Багануур"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003004",
+    "adm2nm_mn": "Баянхонгор"
+  },
+  {
+    "adm1cd": "MNG020",
+    "adm1nm_mn": "Улаанбаатар",
+    "adm2cd": "MNG020005",
+    "adm2nm_mn": "Чингэлтэй"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019025",
+    "adm2nm_mn": "Угтаал"
+  },
+  {
+    "adm1cd": "MNG004",
+    "adm1nm_mn": "Булган",
+    "adm2cd": "MNG004010",
+    "adm2nm_mn": "Хутаг-Өндөр"
+  },
+  {
+    "adm1cd": "MNG006",
+    "adm1nm_mn": "Дорнод",
+    "adm2cd": "MNG006003",
+    "adm2nm_mn": "Баян-Уул"
+  },
+  {
+    "adm1cd": "MNG018",
+    "adm1nm_mn": "Сүхбаатар",
+    "adm2cd": "MNG018013",
+    "adm2nm_mn": "Уулбаян"
+  },
+  {
+    "adm1cd": "MNG001",
+    "adm1nm_mn": "Архангай",
+    "adm2cd": "MNG001010",
+    "adm2nm_mn": "Хашаат"
+  },
+  {
+    "adm1cd": "MNG012",
+    "adm1nm_mn": "Ховд",
+    "adm2cd": "MNG012007",
+    "adm2nm_mn": "Дуут"
+  },
+  {
+    "adm1cd": "MNG016",
+    "adm1nm_mn": "Өвөрхангай",
+    "adm2cd": "MNG016014",
+    "adm2nm_mn": "Сант"
+  },
+  {
+    "adm1cd": "MNG001",
+    "adm1nm_mn": "Архангай",
+    "adm2cd": "MNG001011",
+    "adm2nm_mn": "Хотонт"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019023",
+    "adm2nm_mn": "Сүмбэр"
+  },
+  {
+    "adm1cd": "MNG001",
+    "adm1nm_mn": "Архангай",
+    "adm2cd": "MNG001003",
+    "adm2nm_mn": "Чулуут"
+  },
+  {
+    "adm1cd": "MNG017",
+    "adm1nm_mn": "Сэлэнгэ",
+    "adm2cd": "MNG016029",
+    "adm2nm_mn": "Сайхан"
+  },
+  {
+    "adm1cd": "MNG007",
+    "adm1nm_mn": "Дорноговь",
+    "adm2cd": "MNG007010",
+    "adm2nm_mn": "Өргөн"
+  },
+  {
+    "adm1cd": "MNG009",
+    "adm1nm_mn": "Говь-Алтай",
+    "adm2cd": "MNG009018",
+    "adm2nm_mn": "Есөнбулаг"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013016",
+    "adm2nm_mn": "Төмөрбулаг"
+  },
+  {
+    "adm1cd": "MNG016",
+    "adm1nm_mn": "Өвөрхангай",
+    "adm2cd": "MNG016009",
+    "adm2nm_mn": "Хайрхандулаан"
+  },
+  {
+    "adm1cd": "MNG016",
+    "adm1nm_mn": "Өвөрхангай",
+    "adm2cd": "MNG016001",
+    "adm2nm_mn": "Арвайхээр"
+  },
+  {
+    "adm1cd": "MNG004",
+    "adm1nm_mn": "Булган",
+    "adm2cd": "MNG004006",
+    "adm2nm_mn": "Дашинчилэн"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022003",
+    "adm2nm_mn": "Баянхайрхан"
+  },
+  {
+    "adm1cd": "MNG018",
+    "adm1nm_mn": "Сүхбаатар",
+    "adm2cd": "MNG018001",
+    "adm2nm_mn": "Асгат"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019026",
+    "adm2nm_mn": "Заамар"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013010",
+    "adm2nm_mn": "Ханх"
+  },
+  {
+    "adm1cd": "MNG011",
+    "adm1nm_mn": "Хэнтий",
+    "adm2cd": "MNG011009",
+    "adm2nm_mn": "Дадал"
+  },
+  {
+    "adm1cd": "MNG009",
+    "adm1nm_mn": "Говь-Алтай",
+    "adm2cd": "MNG009013",
+    "adm2nm_mn": "Тайшир"
+  },
+  {
+    "adm1cd": "MNG008",
+    "adm1nm_mn": "Дундговь",
+    "adm2cd": "MNG007018",
+    "adm2nm_mn": "Дэлгэрцогт"
+  },
+  {
+    "adm1cd": "MNG012",
+    "adm1nm_mn": "Ховд",
+    "adm2cd": "MNG012004",
+    "adm2nm_mn": "Чандмань"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003002",
+    "adm2nm_mn": "Баянбулаг"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003011",
+    "adm2nm_mn": "Бууцагаан"
+  },
+  {
+    "adm1cd": "MNG009",
+    "adm1nm_mn": "Говь-Алтай",
+    "adm2cd": "MNG009007",
+    "adm2nm_mn": "Дэлгэр"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003014",
+    "adm2nm_mn": "Гурванбулаг"
+  },
+  {
+    "adm1cd": "MNG007",
+    "adm1nm_mn": "Дорноговь",
+    "adm2cd": "MNG007009",
+    "adm2nm_mn": "Мандах"
+  },
+  {
+    "adm1cd": "MNG004",
+    "adm1nm_mn": "Булган",
+    "adm2cd": "MNG004007",
+    "adm2nm_mn": "Гурванбулаг"
+  },
+  {
+    "adm1cd": "MNG006",
+    "adm1nm_mn": "Дорнод",
+    "adm2cd": "MNG006014",
+    "adm2nm_mn": "Цагаан-Овоо"
+  },
+  {
+    "adm1cd": "MNG007",
+    "adm1nm_mn": "Дорноговь",
+    "adm2cd": "MNG007014",
+    "adm2nm_mn": "Замын-Үүд"
+  },
+  {
+    "adm1cd": "MNG016",
+    "adm1nm_mn": "Өвөрхангай",
+    "adm2cd": "MNG016006",
+    "adm2nm_mn": "Богд"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013009",
+    "adm2nm_mn": "Жаргалант"
+  },
+  {
+    "adm1cd": "MNG006",
+    "adm1nm_mn": "Дорнод",
+    "adm2cd": "MNG006012",
+    "adm2nm_mn": "Матад"
+  },
+  {
+    "adm1cd": "MNG004",
+    "adm1nm_mn": "Булган",
+    "adm2cd": "MNG004013",
+    "adm2nm_mn": "Рашаант"
+  },
+  {
+    "adm1cd": "MNG012",
+    "adm1nm_mn": "Ховд",
+    "adm2cd": "MNG012015",
+    "adm2nm_mn": "Цэцэг"
+  },
+  {
+    "adm1cd": "MNG021",
+    "adm1nm_mn": "Увс",
+    "adm2cd": "MNG021010",
+    "adm2nm_mn": "Өндөрхангай"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003008",
+    "adm2nm_mn": "Баянцагаан"
+  },
+  {
+    "adm1cd": "MNG008",
+    "adm1nm_mn": "Дундговь",
+    "adm2cd": "MNG007022",
+    "adm2nm_mn": "Гурвансайхан"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013007",
+    "adm2nm_mn": "Галт"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003020",
+    "adm2nm_mn": "Заг"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022001",
+    "adm2nm_mn": "Алдархаан"
+  },
+  {
+    "adm1cd": "MNG004",
+    "adm1nm_mn": "Булган",
+    "adm2cd": "MNG004016",
+    "adm2nm_mn": "Тэшиг"
+  },
+  {
+    "adm1cd": "MNG008",
+    "adm1nm_mn": "Дундговь",
+    "adm2cd": "MNG007019",
+    "adm2nm_mn": "Дэрэн"
+  },
+  {
+    "adm1cd": "MNG007",
+    "adm1nm_mn": "Дорноговь",
+    "adm2cd": "MNG007007",
+    "adm2nm_mn": "Хатанбулаг"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019007",
+    "adm2nm_mn": "Баяндэлгэр"
+  },
+  {
+    "adm1cd": "MNG001",
+    "adm1nm_mn": "Архангай",
+    "adm2cd": "MNG001007",
+    "adm2nm_mn": "Жаргалант"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022023",
+    "adm2nm_mn": "Яруу"
+  },
+  {
+    "adm1cd": "MNG011",
+    "adm1nm_mn": "Хэнтий",
+    "adm2cd": "MNG011013",
+    "adm2nm_mn": "Жаргалтхаан"
+  },
+  {
+    "adm1cd": "MNG011",
+    "adm1nm_mn": "Хэнтий",
+    "adm2cd": "MNG011010",
+    "adm2nm_mn": "Дархан"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003018",
+    "adm2nm_mn": "Өлзийт"
+  },
+  {
+    "adm1cd": "MNG008",
+    "adm1nm_mn": "Дундговь",
+    "adm2cd": "MNG007016",
+    "adm2nm_mn": "Баянжаргалан"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013022",
+    "adm2nm_mn": "Түнэл"
+  },
+  {
+    "adm1cd": "MNG018",
+    "adm1nm_mn": "Сүхбаатар",
+    "adm2cd": "MNG018003",
+    "adm2nm_mn": "Баяндэлгэр"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013013",
+    "adm2nm_mn": "Рэнчинлхүмбэ"
+  },
+  {
+    "adm1cd": "MNG017",
+    "adm1nm_mn": "Сэлэнгэ",
+    "adm2cd": "MNG016021",
+    "adm2nm_mn": "Баруунбүрэн"
+  },
+  {
+    "adm1cd": "MNG002",
+    "adm1nm_mn": "Баян-Өлгий",
+    "adm2cd": "MNG002008",
+    "adm2nm_mn": "Ногооннуур"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019016",
+    "adm2nm_mn": "Эрдэнэ"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013021",
+    "adm2nm_mn": "Цэцэрлэг"
+  },
+  {
+    "adm1cd": "MNG009",
+    "adm1nm_mn": "Говь-Алтай",
+    "adm2cd": "MNG009006",
+    "adm2nm_mn": "Дарви"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013001",
+    "adm2nm_mn": "Алаг-Эрдэнэ"
+  },
+  {
+    "adm1cd": "MNG014",
+    "adm1nm_mn": "Өмнөговь",
+    "adm2cd": "MNG014010",
+    "adm2nm_mn": "Манлай"
+  },
+  {
+    "adm1cd": "MNG004",
+    "adm1nm_mn": "Булган",
+    "adm2cd": "MNG004014",
+    "adm2nm_mn": "Сайхан"
+  },
+  {
+    "adm1cd": "MNG016",
+    "adm1nm_mn": "Өвөрхангай",
+    "adm2cd": "MNG016010",
+    "adm2nm_mn": "Хархорин"
+  },
+  {
+    "adm1cd": "MNG021",
+    "adm1nm_mn": "Увс",
+    "adm2cd": "MNG021009",
+    "adm2nm_mn": "Өмнөговь"
+  },
+  {
+    "adm1cd": "MNG016",
+    "adm1nm_mn": "Өвөрхангай",
+    "adm2cd": "MNG016004",
+    "adm2nm_mn": "Баянгол"
+  },
+  {
+    "adm1cd": "MNG017",
+    "adm1nm_mn": "Сэлэнгэ",
+    "adm2cd": "MNG016023",
+    "adm2nm_mn": "Жавхлант"
+  },
+  {
+    "adm1cd": "MNG008",
+    "adm1nm_mn": "Дундговь",
+    "adm2cd": "MNG007027",
+    "adm2nm_mn": "Сайхан-Овоо"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022010",
+    "adm2nm_mn": "Нөмрөг"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003006",
+    "adm2nm_mn": "Баян-Өндөр"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013002",
+    "adm2nm_mn": "Арбулаг"
+  },
+  {
+    "adm1cd": "MNG007",
+    "adm1nm_mn": "Дорноговь",
+    "adm2cd": "MNG007005",
+    "adm2nm_mn": "Эрдэнэ"
+  },
+  {
+    "adm1cd": "MNG002",
+    "adm1nm_mn": "Баян-Өлгий",
+    "adm2cd": "MNG002010",
+    "adm2nm_mn": "Сагсай"
+  },
+  {
+    "adm1cd": "MNG014",
+    "adm1nm_mn": "Өмнөговь",
+    "adm2cd": "MNG014005",
+    "adm2nm_mn": "Гурвантэс"
+  },
+  {
+    "adm1cd": "MNG007",
+    "adm1nm_mn": "Дорноговь",
+    "adm2cd": "MNG007004",
+    "adm2nm_mn": "Дэлгэрэх"
+  },
+  {
+    "adm1cd": "MNG011",
+    "adm1nm_mn": "Хэнтий",
+    "adm2cd": "MNG011006",
+    "adm2nm_mn": "Баян-Овоо"
+  },
+  {
+    "adm1cd": "MNG020",
+    "adm1nm_mn": "Улаанбаатар",
+    "adm2cd": "MNG020006",
+    "adm2nm_mn": "Хан-Уул"
+  },
+  {
+    "adm1cd": "MNG014",
+    "adm1nm_mn": "Өмнөговь",
+    "adm2cd": "MNG014001",
+    "adm2nm_mn": "Баяндалай"
+  },
+  {
+    "adm1cd": "MNG006",
+    "adm1nm_mn": "Дорнод",
+    "adm2cd": "MNG006005",
+    "adm2nm_mn": "Чойбалсан"
+  },
+  {
+    "adm1cd": "MNG005",
+    "adm1nm_mn": "Дархан-Уул",
+    "adm2cd": "MNG005003",
+    "adm2nm_mn": "Орхон"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013017",
+    "adm2nm_mn": "Тосонцэнгэл"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019020",
+    "adm2nm_mn": "Мөнгөнморьт"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003007",
+    "adm2nm_mn": "Баян-Овоо"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003012",
+    "adm2nm_mn": "Эрдэнэцогт"
+  },
+  {
+    "adm1cd": "MNG004",
+    "adm1nm_mn": "Булган",
+    "adm2cd": "MNG004003",
+    "adm2nm_mn": "Бугат"
+  },
+  {
+    "adm1cd": "MNG018",
+    "adm1nm_mn": "Сүхбаатар",
+    "adm2cd": "MNG018007",
+    "adm2nm_mn": "Мөнххаан"
+  },
+  {
+    "adm1cd": "MNG006",
+    "adm1nm_mn": "Дорнод",
+    "adm2cd": "MNG006006",
+    "adm2nm_mn": "Чулуунхороот"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013005",
+    "adm2nm_mn": "Чандмань-Өндөр"
+  },
+  {
+    "adm1cd": "MNG002",
+    "adm1nm_mn": "Баян-Өлгий",
+    "adm2cd": "MNG002001",
+    "adm2nm_mn": "Алтай"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003013",
+    "adm2nm_mn": "Галуут"
+  },
+  {
+    "adm1cd": "MNG001",
+    "adm1nm_mn": "Архангай",
+    "adm2cd": "MNG001012",
+    "adm2nm_mn": "Өгийнуур"
+  },
+  {
+    "adm1cd": "MNG005",
+    "adm1nm_mn": "Дархан-Уул",
+    "adm2cd": "MNG005001",
+    "adm2nm_mn": "Дархан"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022002",
+    "adm2nm_mn": "Асгат"
+  },
+  {
+    "adm1cd": "MNG011",
+    "adm1nm_mn": "Хэнтий",
+    "adm2cd": "MNG011018",
+    "adm2nm_mn": "Цэнхэрмандал"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022017",
+    "adm2nm_mn": "Цагаанчулуут"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022004",
+    "adm2nm_mn": "Баянтэс"
+  },
+  {
+    "adm1cd": "MNG002",
+    "adm1nm_mn": "Баян-Өлгий",
+    "adm2cd": "MNG002012",
+    "adm2nm_mn": "Цэнгэл"
+  },
+  {
+    "adm1cd": "MNG009",
+    "adm1nm_mn": "Говь-Алтай",
+    "adm2cd": "MNG009004",
+    "adm2nm_mn": "Бугат"
+  },
+  {
+    "adm1cd": "MNG017",
+    "adm1nm_mn": "Сэлэнгэ",
+    "adm2cd": "MNG016028",
+    "adm2nm_mn": "Орхонтуул"
+  },
+  {
+    "adm1cd": "MNG004",
+    "adm1nm_mn": "Булган",
+    "adm2cd": "MNG004009",
+    "adm2nm_mn": "Хишиг-Өндөр"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013014",
+    "adm2nm_mn": "Шинэ-Идэр"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003016",
+    "adm2nm_mn": "Жинст"
+  },
+  {
+    "adm1cd": "MNG001",
+    "adm1nm_mn": "Архангай",
+    "adm2cd": "MNG001008",
+    "adm2nm_mn": "Хайрхан"
+  },
+  {
+    "adm1cd": "MNG002",
+    "adm1nm_mn": "Баян-Өлгий",
+    "adm2cd": "MNG002006",
+    "adm2nm_mn": "Буянт"
+  },
+  {
+    "adm1cd": "MNG002",
+    "adm1nm_mn": "Баян-Өлгий",
+    "adm2cd": "MNG002005",
+    "adm2nm_mn": "Булган"
+  },
+  {
+    "adm1cd": "MNG006",
+    "adm1nm_mn": "Дорнод",
+    "adm2cd": "MNG006002",
+    "adm2nm_mn": "Баянтүмэн"
+  },
+  {
+    "adm1cd": "MNG011",
+    "adm1nm_mn": "Хэнтий",
+    "adm2cd": "MNG011005",
+    "adm2nm_mn": "Баянмөнх"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022024",
+    "adm2nm_mn": "Завханмандал"
+  },
+  {
+    "adm1cd": "MNG004",
+    "adm1nm_mn": "Булган",
+    "adm2cd": "MNG004001",
+    "adm2nm_mn": "Баян-Агт"
+  },
+  {
+    "adm1cd": "MNG005",
+    "adm1nm_mn": "Дархан-Уул",
+    "adm2cd": "MNG005002",
+    "adm2nm_mn": "Хонгор"
+  },
+  {
+    "adm1cd": "MNG017",
+    "adm1nm_mn": "Сэлэнгэ",
+    "adm2cd": "MNG016024",
+    "adm2nm_mn": "Хүдэр"
+  },
+  {
+    "adm1cd": "MNG016",
+    "adm1nm_mn": "Өвөрхангай",
+    "adm2cd": "MNG016008",
+    "adm2nm_mn": "Гучин-Ус"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019019",
+    "adm2nm_mn": "Лүн"
+  },
+  {
+    "adm1cd": "MNG012",
+    "adm1nm_mn": "Ховд",
+    "adm2cd": "MNG012010",
+    "adm2nm_mn": "Ховд"
+  },
+  {
+    "adm1cd": "MNG016",
+    "adm1nm_mn": "Өвөрхангай",
+    "adm2cd": "MNG016002",
+    "adm2nm_mn": "Баруунбаян-Улаан"
+  },
+  {
+    "adm1cd": "MNG017",
+    "adm1nm_mn": "Сэлэнгэ",
+    "adm2cd": "MNG016027",
+    "adm2nm_mn": "Орхон"
+  },
+  {
+    "adm1cd": "MNG009",
+    "adm1nm_mn": "Говь-Алтай",
+    "adm2cd": "MNG009014",
+    "adm2nm_mn": "Төгрөг"
+  },
+  {
+    "adm1cd": "MNG006",
+    "adm1nm_mn": "Дорнод",
+    "adm2cd": "MNG006009",
+    "adm2nm_mn": "Халхгол"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013011",
+    "adm2nm_mn": "Мөрөн"
+  },
+  {
+    "adm1cd": "MNG020",
+    "adm1nm_mn": "Улаанбаатар",
+    "adm2cd": "MNG020008",
+    "adm2nm_mn": "Сонгинохайрхан"
+  },
+  {
+    "adm1cd": "MNG009",
+    "adm1nm_mn": "Говь-Алтай",
+    "adm2cd": "MNG009016",
+    "adm2nm_mn": "Цээл"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022007",
+    "adm2nm_mn": "Эрдэнэхайрхан"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022015",
+    "adm2nm_mn": "Тэлмэн"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019008",
+    "adm2nm_mn": "Баянжаргалант"
+  },
+  {
+    "adm1cd": "MNG006",
+    "adm1nm_mn": "Дорнод",
+    "adm2cd": "MNG006011",
+    "adm2nm_mn": "Хөлөнбуйр"
+  },
+  {
+    "adm1cd": "MNG012",
+    "adm1nm_mn": "Ховд",
+    "adm2cd": "MNG012016",
+    "adm2nm_mn": "Үенч"
+  },
+  {
+    "adm1cd": "MNG020",
+    "adm1nm_mn": "Улаанбаатар",
+    "adm2cd": "MNG020003",
+    "adm2nm_mn": "Баянгол"
+  },
+  {
+    "adm1cd": "MNG007",
+    "adm1nm_mn": "Дорноговь",
+    "adm2cd": "MNG007003",
+    "adm2nm_mn": "Даланжаргалан"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013018",
+    "adm2nm_mn": "Цагааннуур"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003009",
+    "adm2nm_mn": "Богд"
+  },
+  {
+    "adm1cd": "MNG014",
+    "adm1nm_mn": "Өмнөговь",
+    "adm2cd": "MNG014004",
+    "adm2nm_mn": "Даланзадгад"
+  },
+  {
+    "adm1cd": "MNG009",
+    "adm1nm_mn": "Говь-Алтай",
+    "adm2cd": "MNG009008",
+    "adm2nm_mn": "Эрдэнэ"
+  },
+  {
+    "adm1cd": "MNG017",
+    "adm1nm_mn": "Сэлэнгэ",
+    "adm2cd": "MNG016020",
+    "adm2nm_mn": "Алтанбулаг"
+  },
+  {
+    "adm1cd": "MNG004",
+    "adm1nm_mn": "Булган",
+    "adm2cd": "MNG004012",
+    "adm2nm_mn": "Орхон"
+  },
+  {
+    "adm1cd": "MNG002",
+    "adm1nm_mn": "Баян-Өлгий",
+    "adm2cd": "MNG002007",
+    "adm2nm_mn": "Дэлүүн"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019017",
+    "adm2nm_mn": "Эрдэнэсант"
+  },
+  {
+    "adm1cd": "MNG002",
+    "adm1nm_mn": "Баян-Өлгий",
+    "adm2cd": "MNG002004",
+    "adm2nm_mn": "Бугат"
+  },
+  {
+    "adm1cd": "MNG004",
+    "adm1nm_mn": "Булган",
+    "adm2cd": "MNG004005",
+    "adm2nm_mn": "Бүрэгхангай"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019024",
+    "adm2nm_mn": "Цээл"
+  },
+  {
+    "adm1cd": "MNG008",
+    "adm1nm_mn": "Дундговь",
+    "adm2cd": "MNG007017",
+    "adm2nm_mn": "Дэлгэрхангай"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022011",
+    "adm2nm_mn": "Отгон"
+  },
+  {
+    "adm1cd": "MNG002",
+    "adm1nm_mn": "Баян-Өлгий",
+    "adm2cd": "MNG002003",
+    "adm2nm_mn": "Баяннуур"
+  },
+  {
+    "adm1cd": "MNG004",
+    "adm1nm_mn": "Булган",
+    "adm2cd": "MNG004004",
+    "adm2nm_mn": "Булган"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019012",
+    "adm2nm_mn": "Баянцогт"
+  },
+  {
+    "adm1cd": "MNG021",
+    "adm1nm_mn": "Увс",
+    "adm2cd": "MNG021016",
+    "adm2nm_mn": "Улаангом"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013023",
+    "adm2nm_mn": "Улаан-Уул"
+  },
+  {
+    "adm1cd": "MNG017",
+    "adm1nm_mn": "Сэлэнгэ",
+    "adm2cd": "MNG016022",
+    "adm2nm_mn": "Баянгол"
+  },
+  {
+    "adm1cd": "MNG011",
+    "adm1nm_mn": "Хэнтий",
+    "adm2cd": "MNG011014",
+    "adm2nm_mn": "Хэрлэн"
+  },
+  {
+    "adm1cd": "MNG017",
+    "adm1nm_mn": "Сэлэнгэ",
+    "adm2cd": "MNG016030",
+    "adm2nm_mn": "Сант"
+  },
+  {
+    "adm1cd": "MNG020",
+    "adm1nm_mn": "Улаанбаатар",
+    "adm2cd": "MNG020007",
+    "adm2nm_mn": "Налайх"
+  },
+  {
+    "adm1cd": "MNG012",
+    "adm1nm_mn": "Ховд",
+    "adm2cd": "MNG012014",
+    "adm2nm_mn": "Мянгад"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022016",
+    "adm2nm_mn": "Тэс"
+  },
+  {
+    "adm1cd": "MNG007",
+    "adm1nm_mn": "Дорноговь",
+    "adm2cd": "MNG007011",
+    "adm2nm_mn": "Сайхандулаан"
+  },
+  {
+    "adm1cd": "MNG001",
+    "adm1nm_mn": "Архангай",
+    "adm2cd": "MNG001005",
+    "adm2nm_mn": "Эрдэнэмандал"
+  },
+  {
+    "adm1cd": "MNG016",
+    "adm1nm_mn": "Өвөрхангай",
+    "adm2cd": "MNG016017",
+    "adm2nm_mn": "Уянга"
+  },
+  {
+    "adm1cd": "MNG004",
+    "adm1nm_mn": "Булган",
+    "adm2cd": "MNG004015",
+    "adm2nm_mn": "Сэлэнгэ"
+  },
+  {
+    "adm1cd": "MNG017",
+    "adm1nm_mn": "Сэлэнгэ",
+    "adm2cd": "MNG016034",
+    "adm2nm_mn": "Түшиг"
+  },
+  {
+    "adm1cd": "MNG002",
+    "adm1nm_mn": "Баян-Өлгий",
+    "adm2cd": "MNG002011",
+    "adm2nm_mn": "Толбо"
+  },
+  {
+    "adm1cd": "MNG021",
+    "adm1nm_mn": "Увс",
+    "adm2cd": "MNG021017",
+    "adm2nm_mn": "Завхан"
+  },
+  {
+    "adm1cd": "MNG009",
+    "adm1nm_mn": "Говь-Алтай",
+    "adm2cd": "MNG009005",
+    "adm2nm_mn": "Чандмань"
+  },
+  {
+    "adm1cd": "MNG007",
+    "adm1nm_mn": "Дорноговь",
+    "adm2cd": "MNG007013",
+    "adm2nm_mn": "Улаанбадрах"
+  },
+  {
+    "adm1cd": "MNG014",
+    "adm1nm_mn": "Өмнөговь",
+    "adm2cd": "MNG014012",
+    "adm2nm_mn": "Ноён"
+  },
+  {
+    "adm1cd": "MNG010",
+    "adm1nm_mn": "Говьсүмбэр",
+    "adm2cd": "MNG010002",
+    "adm2nm_mn": "Шивээговь"
+  },
+  {
+    "adm1cd": "MNG008",
+    "adm1nm_mn": "Дундговь",
+    "adm2cd": "MNG007020",
+    "adm2nm_mn": "Эрдэнэдалай"
+  },
+  {
+    "adm1cd": "MNG011",
+    "adm1nm_mn": "Хэнтий",
+    "adm2cd": "MNG011004",
+    "adm2nm_mn": "Баянхутаг"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013015",
+    "adm2nm_mn": "Тариалан"
+  },
+  {
+    "adm1cd": "MNG009",
+    "adm1nm_mn": "Говь-Алтай",
+    "adm2cd": "MNG009015",
+    "adm2nm_mn": "Тонхил"
+  },
+  {
+    "adm1cd": "MNG007",
+    "adm1nm_mn": "Дорноговь",
+    "adm2cd": "MNG007008",
+    "adm2nm_mn": "Хөвсгөл"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019004",
+    "adm2nm_mn": "Батсүмбэр"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022018",
+    "adm2nm_mn": "Цагаанхайрхан"
+  },
+  {
+    "adm1cd": "MNG007",
+    "adm1nm_mn": "Дорноговь",
+    "adm2cd": "MNG007012",
+    "adm2nm_mn": "Сайншанд"
+  },
+  {
+    "adm1cd": "MNG018",
+    "adm1nm_mn": "Сүхбаатар",
+    "adm2cd": "MNG018005",
+    "adm2nm_mn": "Эрдэнэцагаан"
+  },
+  {
+    "adm1cd": "MNG017",
+    "adm1nm_mn": "Сэлэнгэ",
+    "adm2cd": "MNG016032",
+    "adm2nm_mn": "Сүхбаатар"
+  },
+  {
+    "adm1cd": "MNG014",
+    "adm1nm_mn": "Өмнөговь",
+    "adm2cd": "MNG014006",
+    "adm2nm_mn": "Ханбогд"
+  },
+  {
+    "adm1cd": "MNG006",
+    "adm1nm_mn": "Дорнод",
+    "adm2cd": "MNG006004",
+    "adm2nm_mn": "Булган"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баян-Өлгий",
+    "adm2cd": "MNG002009",
+    "adm2nm_mn": "Өлгий"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022021",
+    "adm2nm_mn": "Улиастай"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019014",
+    "adm2nm_mn": "Бүрэн"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022013",
+    "adm2nm_mn": "Шилүүстэй"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022020",
+    "adm2nm_mn": "Түдэвтэй"
+  },
+  {
+    "adm1cd": "MNG009",
+    "adm1nm_mn": "Говь-Алтай",
+    "adm2cd": "MNG009001",
+    "adm2nm_mn": "Алтай"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013003",
+    "adm2nm_mn": "Баянзүрх"
+  },
+  {
+    "adm1cd": "MNG014",
+    "adm1nm_mn": "Өмнөговь",
+    "adm2cd": "MNG014008",
+    "adm2nm_mn": "Хүрмэн"
+  },
+  {
+    "adm1cd": "MNG021",
+    "adm1nm_mn": "Увс",
+    "adm2cd": "MNG021006",
+    "adm2nm_mn": "Малчин"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003001",
+    "adm2nm_mn": "Баацагаан"
+  },
+  {
+    "adm1cd": "MNG001",
+    "adm1nm_mn": "Архангай",
+    "adm2cd": "MNG001013",
+    "adm2nm_mn": "Өлзийт"
+  },
+  {
+    "adm1cd": "MNG020",
+    "adm1nm_mn": "Улаанбаатар",
+    "adm2cd": "MNG020009",
+    "adm2nm_mn": "Сүхбаатар"
+  },
+  {
+    "adm1cd": "MNG017",
+    "adm1nm_mn": "Сэлэнгэ",
+    "adm2cd": "MNG016026",
+    "adm2nm_mn": "Мандал"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022019",
+    "adm2nm_mn": "Цэцэн-Уул"
+  },
+  {
+    "adm1cd": "MNG016",
+    "adm1nm_mn": "Өвөрхангай",
+    "adm2cd": "MNG016013",
+    "adm2nm_mn": "Өлзийт"
+  },
+  {
+    "adm1cd": "MNG018",
+    "adm1nm_mn": "Сүхбаатар",
+    "adm2cd": "MNG018004",
+    "adm2nm_mn": "Дарьганга"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003015",
+    "adm2nm_mn": "Жаргалант"
+  },
+  {
+    "adm1cd": "MNG016",
+    "adm1nm_mn": "Өвөрхангай",
+    "adm2cd": "MNG016012",
+    "adm2nm_mn": "Нарийнтээл"
+  },
+  {
+    "adm1cd": "MNG006",
+    "adm1nm_mn": "Дорнод",
+    "adm2cd": "MNG006007",
+    "adm2nm_mn": "Дашбалбар"
+  },
+  {
+    "adm1cd": "MNG012",
+    "adm1nm_mn": "Ховд",
+    "adm2cd": "MNG012008",
+    "adm2nm_mn": "Эрдэнэбүрэн"
+  },
+  {
+    "adm1cd": "MNG016",
+    "adm1nm_mn": "Өвөрхангай",
+    "adm2cd": "MNG016007",
+    "adm2nm_mn": "Бүрд"
+  },
+  {
+    "adm1cd": "MNG007",
+    "adm1nm_mn": "Дорноговь",
+    "adm2cd": "MNG007006",
+    "adm2nm_mn": "Иххэт"
+  },
+  {
+    "adm1cd": "MNG006",
+    "adm1nm_mn": "Дорнод",
+    "adm2cd": "MNG006013",
+    "adm2nm_mn": "Сэргэлэн"
+  },
+  {
+    "adm1cd": "MNG011",
+    "adm1nm_mn": "Хэнтий",
+    "adm2cd": "MNG011002",
+    "adm2nm_mn": "Батширээт"
+  },
+  {
+    "adm1cd": "MNG010",
+    "adm1nm_mn": "Говьсүмбэр",
+    "adm2cd": "MNG010001",
+    "adm2nm_mn": "Баянтал"
+  },
+  {
+    "adm1cd": "MNG016",
+    "adm1nm_mn": "Өвөрхангай",
+    "adm2cd": "MNG016019",
+    "adm2nm_mn": "Зүүнбаян-Улаан"
+  },
+  {
+    "adm1cd": "MNG021",
+    "adm1nm_mn": "Увс",
+    "adm2cd": "MNG021019",
+    "adm2nm_mn": "Зүүнхангай"
+  },
+  {
+    "adm1cd": "MNG021",
+    "adm1nm_mn": "Увс",
+    "adm2cd": "MNG021013",
+    "adm2nm_mn": "Тэс"
+  },
+  {
+    "adm1cd": "MNG011",
+    "adm1nm_mn": "Хэнтий",
+    "adm2cd": "MNG011011",
+    "adm2nm_mn": "Дэлгэрхаан"
+  },
+  {
+    "adm1cd": "MNG008",
+    "adm1nm_mn": "Дундговь",
+    "adm2cd": "MNG007021",
+    "adm2nm_mn": "Говь-Угтаал"
+  },
+  {
+    "adm1cd": "MNG018",
+    "adm1nm_mn": "Сүхбаатар",
+    "adm2cd": "MNG018009",
+    "adm2nm_mn": "Онгон"
+  },
+  {
+    "adm1cd": "MNG017",
+    "adm1nm_mn": "Сэлэнгэ",
+    "adm2cd": "MNG016033",
+    "adm2nm_mn": "Цагааннуур"
+  },
+  {
+    "adm1cd": "MNG021",
+    "adm1nm_mn": "Увс",
+    "adm2cd": "MNG021015",
+    "adm2nm_mn": "Түргэн"
+  },
+  {
+    "adm1cd": "MNG014",
+    "adm1nm_mn": "Өмнөговь",
+    "adm2cd": "MNG014014",
+    "adm2nm_mn": "Цогт-Овоо"
+  },
+  {
+    "adm1cd": "MNG016",
+    "adm1nm_mn": "Өвөрхангай",
+    "adm2cd": "MNG016003",
+    "adm2nm_mn": "Бат-Өлзий"
+  },
+  {
+    "adm1cd": "MNG012",
+    "adm1nm_mn": "Ховд",
+    "adm2cd": "MNG012013",
+    "adm2nm_mn": "Мөст"
+  },
+  {
+    "adm1cd": "MNG001",
+    "adm1nm_mn": "Архангай",
+    "adm2cd": "MNG001009",
+    "adm2nm_mn": "Хангай"
+  },
+  {
+    "adm1cd": "MNG021",
+    "adm1nm_mn": "Увс",
+    "adm2cd": "MNG021014",
+    "adm2nm_mn": "Цагаанхайрхан"
+  },
+  {
+    "adm1cd": "MNG018",
+    "adm1nm_mn": "Сүхбаатар",
+    "adm2cd": "MNG018002",
+    "adm2nm_mn": "Баруун-Урт"
+  },
+  {
+    "adm1cd": "MNG020",
+    "adm1nm_mn": "Улаанбаатар",
+    "adm2cd": "MNG020004",
+    "adm2nm_mn": "Баянзүрх"
+  },
+  {
+    "adm1cd": "MNG012",
+    "adm1nm_mn": "Ховд",
+    "adm2cd": "MNG012006",
+    "adm2nm_mn": "Дөргөн"
+  },
+  {
+    "adm1cd": "MNG008",
+    "adm1nm_mn": "Дундговь",
+    "adm2cd": "MNG007025",
+    "adm2nm_mn": "Өлзийт"
+  },
+  {
+    "adm1cd": "MNG020",
+    "adm1nm_mn": "Улаанбаатар",
+    "adm2cd": "MNG020001",
+    "adm2nm_mn": "Багахангай"
+  },
+  {
+    "adm1cd": "MNG012",
+    "adm1nm_mn": "Хэнтий",
+    "adm2cd": "MNG011008",
+    "adm2nm_mn": "Бор-Өндөр"
+  },
+  {
+    "adm1cd": "MNG009",
+    "adm1nm_mn": "Говь-Алтай",
+    "adm2cd": "MNG009012",
+    "adm2nm_mn": "Шарга"
+  },
+  {
+    "adm1cd": "MNG018",
+    "adm1nm_mn": "Сүхбаатар",
+    "adm2cd": "MNG018011",
+    "adm2nm_mn": "Түмэнцогт"
+  },
+  {
+    "adm1cd": "MNG008",
+    "adm1nm_mn": "Дундговь",
+    "adm2cd": "MNG007015",
+    "adm2nm_mn": "Адаацаг"
+  },
+  {
+    "adm1cd": "MNG011",
+    "adm1nm_mn": "Хэнтий",
+    "adm2cd": "MNG011015",
+    "adm2nm_mn": "Мөрөн"
+  },
+  {
+    "adm1cd": "MNG014",
+    "adm1nm_mn": "Өмнөговь",
+    "adm2cd": "MNG014003",
+    "adm2nm_mn": "Булган"
+  },
+  {
+    "adm1cd": "MNG011",
+    "adm1nm_mn": "Хэнтий",
+    "adm2cd": "MNG011007",
+    "adm2nm_mn": "Биндэр"
+  },
+  {
+    "adm1cd": "MNG011",
+    "adm1nm_mn": "Хэнтий",
+    "adm2cd": "MNG011012",
+    "adm2nm_mn": "Галшар"
+  },
+  {
+    "adm1cd": "MNG016",
+    "adm1nm_mn": "Өвөрхангай",
+    "adm2cd": "MNG016015",
+    "adm2nm_mn": "Тарагт"
+  },
+  {
+    "adm1cd": "MNG016",
+    "adm1nm_mn": "Өвөрхангай",
+    "adm2cd": "MNG016011",
+    "adm2nm_mn": "Хужирт"
+  },
+  {
+    "adm1cd": "MNG011",
+    "adm1nm_mn": "Хэнтий",
+    "adm2cd": "MNG011003",
+    "adm2nm_mn": "Баян-Адарга"
+  },
+  {
+    "adm1cd": "MNG009",
+    "adm1nm_mn": "Говь-Алтай",
+    "adm2cd": "MNG009009",
+    "adm2nm_mn": "Жаргалан"
+  },
+  {
+    "adm1cd": "MNG001",
+    "adm1nm_mn": "Архангай",
+    "adm2cd": "MNG001016",
+    "adm2nm_mn": "Төвшрүүлэх"
+  },
+  {
+    "adm1cd": "MNG012",
+    "adm1nm_mn": "Ховд",
+    "adm2cd": "MNG012011",
+    "adm2nm_mn": "Манхан"
+  },
+  {
+    "adm1cd": "MNG008",
+    "adm1nm_mn": "Дундговь",
+    "adm2cd": "MNG007028",
+    "adm2nm_mn": "Сайнцагаан"
+  },
+  {
+    "adm1cd": "MNG021",
+    "adm1nm_mn": "Увс",
+    "adm2cd": "MNG021012",
+    "adm2nm_mn": "Тариалан"
+  },
+  {
+    "adm1cd": "MNG016",
+    "adm1nm_mn": "Өвөрхангай",
+    "adm2cd": "MNG016016",
+    "adm2nm_mn": "Төгрөг"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003005",
+    "adm2nm_mn": "Баянлиг"
+  },
+  {
+    "adm1cd": "MNG014",
+    "adm1nm_mn": "Өмнөговь",
+    "adm2cd": "MNG014002",
+    "adm2nm_mn": "Баян-Овоо"
+  },
+  {
+    "adm1cd": "MNG003",
+    "adm1nm_mn": "Баянхонгор",
+    "adm2cd": "MNG003003",
+    "adm2nm_mn": "Баянговь"
+  },
+  {
+    "adm1cd": "MNG021",
+    "adm1nm_mn": "Увс",
+    "adm2cd": "MNG021003",
+    "adm2nm_mn": "Давст"
+  },
+  {
+    "adm1cd": "MNG022",
+    "adm1nm_mn": "Завхан",
+    "adm2cd": "MNG022008",
+    "adm2nm_mn": "Идэр"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019001",
+    "adm2nm_mn": "Алтанбулаг"
+  },
+  {
+    "adm1cd": "MNG008",
+    "adm1nm_mn": "Дундговь",
+    "adm2cd": "MNG007029",
+    "adm2nm_mn": "Цагаандэлгэр"
+  },
+  {
+    "adm1cd": "MNG018",
+    "adm1nm_mn": "Сүхбаатар",
+    "adm2cd": "MNG018008",
+    "adm2nm_mn": "Наран"
+  },
+  {
+    "adm1cd": "MNG021",
+    "adm1nm_mn": "Увс",
+    "adm2cd": "MNG021007",
+    "adm2nm_mn": "Наранбулаг"
+  },
+  {
+    "adm1cd": "MNG001",
+    "adm1nm_mn": "Архангай",
+    "adm2cd": "MNG001014",
+    "adm2nm_mn": "Өндөр-Улаан"
+  },
+  {
+    "adm1cd": "MNG017",
+    "adm1nm_mn": "Сэлэнгэ",
+    "adm2cd": "MNG016031",
+    "adm2nm_mn": "Шаамар"
+  },
+  {
+    "adm1cd": "MNG012",
+    "adm1nm_mn": "Ховд",
+    "adm2cd": "MNG012002",
+    "adm2nm_mn": "Булган"
+  },
+  {
+    "adm1cd": "MNG002",
+    "adm1nm_mn": "Баян-Өлгий",
+    "adm2cd": "MNG002002",
+    "adm2nm_mn": "Алтанцөгц"
+  },
+  {
+    "adm1cd": "MNG004",
+    "adm1nm_mn": "Булган",
+    "adm2cd": "MNG004011",
+    "adm2nm_mn": "Могод"
+  },
+  {
+    "adm1cd": "MNG021",
+    "adm1nm_mn": "Увс",
+    "adm2cd": "MNG021002",
+    "adm2nm_mn": "Бөхмөрөн"
+  },
+  {
+    "adm1cd": "MNG002",
+    "adm1nm_mn": "Архангай",
+    "adm2cd": "MNG001004",
+    "adm2nm_mn": "Эрдэнэбулган"
+  },
+  {
+    "adm1cd": "MNG012",
+    "adm1nm_mn": "Ховд",
+    "adm2cd": "MNG012001",
+    "adm2nm_mn": "Алтай"
+  },
+  {
+    "adm1cd": "MNG008",
+    "adm1nm_mn": "Дундговь",
+    "adm2cd": "MNG007026",
+    "adm2nm_mn": "Өндөршил"
+  },
+  {
+    "adm1cd": "MNG009",
+    "adm1nm_mn": "Говь-Алтай",
+    "adm2cd": "MNG009003",
+    "adm2nm_mn": "Бигэр"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019022",
+    "adm2nm_mn": "Сэргэлэн"
+  },
+  {
+    "adm1cd": "MNG006",
+    "adm1nm_mn": "Дорнод",
+    "adm2cd": "MNG006008",
+    "adm2nm_mn": "Гурванзагал"
+  },
+  {
+    "adm1cd": "MNG019",
+    "adm1nm_mn": "Төв",
+    "adm2cd": "MNG019002",
+    "adm2nm_mn": "Аргалант"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013006",
+    "adm2nm_mn": "Эрдэнэбулган"
+  },
+  {
+    "adm1cd": "MNG015",
+    "adm1nm_mn": "Орхон",
+    "adm2cd": "MNG015001",
+    "adm2nm_mn": "Баян-Өндөр"
+  },
+  {
+    "adm1cd": "MNG021",
+    "adm1nm_mn": "Увс",
+    "adm2cd": "MNG021004",
+    "adm2nm_mn": "Ховд"
+  },
+  {
+    "adm1cd": "MNG001",
+    "adm1nm_mn": "Архангай",
+    "adm2cd": "MNG001018",
+    "adm2nm_mn": "Цэнхэр"
+  },
+  {
+    "adm1cd": "MNG018",
+    "adm1nm_mn": "Сүхбаатар",
+    "adm2cd": "MNG018012",
+    "adm2nm_mn": "Түвшинширээ"
+  },
+  {
+    "adm1cd": "MNG013",
+    "adm1nm_mn": "Хөвсгөл",
+    "adm2cd": "MNG013020",
+    "adm2nm_mn": "Цагаан-Үүр"
+  }
+]
