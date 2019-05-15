@@ -7,7 +7,7 @@
             <v-list class="pa-0">
               <v-list-tile avatar to="/">
                 <v-list-tile-avatar>
-                  <img src="/static/logo.png" class="logo" alt="LangGIS">
+                  <img :src="`${publicPath}/static/logo.png`" class="logo" alt="LangGIS">
                 </v-list-tile-avatar>
                 <v-list-tile-content>
                   <v-list-tile-title>Цэг, тэмдэгтийн мэдээлэл</v-list-tile-title>
@@ -30,7 +30,7 @@
 export default {
   data () {
     return {
-
+      publicPath: process.env.BASE_URL
     }
   },
   created() {

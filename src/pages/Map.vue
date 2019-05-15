@@ -21,7 +21,7 @@
               </v-list-tile>
               <v-list-tile avatar v-if="!mini">
                 <v-list-tile-avatar>
-                  <img src="/static/logo.png" class="logo" alt="LangGIS">
+                  <img :src="`${publicPath}/static/logo.png`" class="logo" alt="LangGIS">
                 </v-list-tile-avatar>
                 <v-list-tile-content>
                   <v-list-tile-title>Цэг, тэмдэгтийн мэдээлэл</v-list-tile-title>
@@ -250,11 +250,11 @@
 
     <div class="baselayer">
       <div v-on:click="changeMap()" v-if="!mapSelect">
-        <img src="/static/google.png">
+        <img :src="`${publicPath}/static/google.png`">
         <div class="map-name">Google</div>
       </div>
       <div v-on:click="changeMap()" v-else>
-        <img src="/static/openstreet.png">
+        <img :src="`${publicPath}/static/openstreet.png`">
         <div class="map-name">Open Street</div>
       </div>
     </div>
@@ -304,6 +304,8 @@ import GeoJSON from 'ol/format/GeoJSON.js';
 export default {
   data() {
     return {
+      serverURL: 'https://backendservice.ircc.ca/webservice/rest/point/service',
+      publicPath: process.env.BASE_URL,
       snackbar: false,
       snackbarMessage: '',
       refNames: refNamesJSON.ref_names,
@@ -546,7 +548,7 @@ export default {
 
       if (vm.$refs.formLatLong.validate()) {
 
-        axios.get(`http://52.60.124.109:8080/webservice/rest/point/service/radius/${this.latitude}/${this.longitude}/${this.radius}`).then( response => {
+        axios.get(`${serverURL}/radius/${this.latitude}/${this.longitude}/${this.radius}`).then( response => {
           let points = response.data.points
 
           if (points.length > 0) {
@@ -561,7 +563,7 @@ export default {
     submitSearch() {
       let vm = this
       if (vm.$refs.formSearch.validate()) {
-        axios.get(`http://52.60.124.109:8080/webservice/rest/point/service/center/${this.filter.sum.adm2cd}`).then( response => {
+        axios.get(`${serverURL}/center/${this.filter.sum.adm2cd}`).then( response => {
           let data = response.data;
           vm.zoom = vm.map.getView().getZoom();
 
@@ -574,7 +576,7 @@ export default {
     submitRefNames() {
       let vm = this
       if (vm.$refs.formRefName.validate()) {
-        axios.get('http://52.60.124.109:8080/webservice/rest/point/service/locations/' + vm.ref_names).then( response => {
+        axios.get('${serverURL}/locations/' + vm.ref_names).then( response => {
           var points = response.data.points
 
           if (points.length > 0) {
