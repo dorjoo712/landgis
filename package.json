@@ -39,6 +39,7 @@
     "chalk": "^2.0.1",
     "chromedriver": "^2.44.1",
     "copy-webpack-plugin": "^4.6.0",
+    "cross-env": "^5.2.0",
     "cross-spawn": "^5.0.1",
     "css-loader": "^0.28.0",
     "extract-text-webpack-plugin": "^3.0.0",
@@ -68,7 +69,7 @@
     "vue-template-compiler": "^2.6.10",
     "webpack": "^3.6.0",
     "webpack-bundle-analyzer": "^2.9.0",
-    "webpack-dev-server": "^3.3.1",
+    "webpack-dev-server": "^2.11.3",
     "webpack-merge": "^4.1.0"
   },
   "engines": {
